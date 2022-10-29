@@ -1716,7 +1716,13 @@ exports.listMenu = (time, salam, pushname, prefix) => {
 ╭─❒ 「 TqTo 」 
 │○ My God
 │○ My Parents
-│○ XgtibXcyb
+│○ Fatih A.
+│○ Ferdi
+│○ DikaArdnt
+│○ Mhankbarbar
+│○ Nurutomo
+│○ Rashid
+│○ ZeeoneOfc
 │○ Penyedia Module
 ╰❒ And All Support
     `
@@ -1750,7 +1756,7 @@ Terimakasih!
 `
 }
 exports.welcome = () =>{
-	return`Hallo beban
+	return`𝖩𝖺𝗇𝗀𝖺𝗇 𝗅𝗎𝗉𝖺 𝗂𝗇𝗍𝗋𝗈 𝗄𝖺𝗄 🤗
 	
 ╭ 𝖭𝖺𝗆𝖺 :
 │○ 𝖴𝗆𝗎𝗋 :
@@ -1759,14 +1765,14 @@ exports.welcome = () =>{
 ╰❒ 𝖯𝖺𝗍𝗎𝗁𝗂 𝗋𝗎𝗅𝖾𝗌 𝗀𝗋𝗎𝗉 𝗒𝖺 𝗄𝖺k ~`
 }
 exports.leave = () =>{
-	return`Yahahaha keluar culun baru di senggol dikit
+	return`Yah kok out 😣 Mental aman kan kak >.<
 Goodbye`
 }
 exports.source = () =>{
 return`*------「 SOURCE CODE 」 ------*
 
 Base : https://github.com/DikaArdnt/Hisoka-Morou
-Recode : Xgtibxcyb 
+Recode : https://youtube.com/playlist?list=PLFCglBzFPHG7vSQaa9S3P8yfla_d9w-2-
 `
 }
 exports.tos = (ownernomer) => {
